@@ -1,0 +1,212 @@
+{"level":"info","msg":"Inject devspacehelper...","time":"2024-12-25T09:26:54+07:00"}
+{"level":"info","msg":"Start syncing","time":"2024-12-25T09:27:00+07:00"}
+{"level":"info","msg":"Downstream - Initial sync completed","time":"2024-12-25T09:27:02+07:00"}
+{"level":"info","msg":"Upstream - Handling 19 removes","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'config/elasticmq.conf'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app/page.module.css'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app/api/auth/[...nextauth]'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app/api/auth'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app/api/auth/[...nextauth]/add-scopes.js'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app/api/auth/route.js'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app/globals.css'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'migrations'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app/page.js'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'migrations/20241222072125_create_tables.js'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'config'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app/favicon.ico'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app/posts/page.js'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app/api'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'utils'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'utils/auth.js'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app/posts'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Remove 'app/layout.js'","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Upload 13 create change(s) (Uncompressed ~186.08 KB)","time":"2024-12-25T09:27:04+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 32 change(s)","time":"2024-12-25T09:27:05+07:00"}
+{"level":"info","msg":"Upstream - Initial sync completed","time":"2024-12-25T09:27:06+07:00"}
+{"level":"info","msg":"Downstream - Download file './package-lock.json', uncompressed: ~153.94 KB","time":"2024-12-25T09:27:31+07:00"}
+{"level":"info","msg":"Downstream - Successfully processed 1 change(s)","time":"2024-12-25T09:27:32+07:00"}
+{"level":"info","msg":"Upstream - Upload Folder 'utils'","time":"2024-12-25T09:30:05+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.00 KB)","time":"2024-12-25T09:30:05+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:30:06+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'utils/auth.js'","time":"2024-12-25T09:30:12+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.00 KB)","time":"2024-12-25T09:30:12+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:30:12+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'utils/auth.js'","time":"2024-12-25T09:30:16+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.78 KB)","time":"2024-12-25T09:30:16+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:30:16+07:00"}
+{"level":"info","msg":"Upstream - Handling 1 removes","time":"2024-12-25T09:37:47+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/coders'","time":"2024-12-25T09:37:47+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/coders'","time":"2024-12-25T09:37:47+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:37:47+07:00"}
+{"level":"info","msg":"Upstream - Upload Folder 'pages/blog'","time":"2024-12-25T09:38:05+07:00"}
+{"level":"info","msg":"Upstream - Upload Folder 'pages/blog/index.js'","time":"2024-12-25T09:38:05+07:00"}
+{"level":"info","msg":"Upstream - Upload 2 create change(s) (Uncompressed ~0.00 KB)","time":"2024-12-25T09:38:05+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:38:06+07:00"}
+{"level":"info","msg":"Upstream - Handling 1 removes","time":"2024-12-25T09:38:10+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/index.js'","time":"2024-12-25T09:38:10+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/index.js'","time":"2024-12-25T09:38:10+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:38:10+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T09:38:17+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.00 KB)","time":"2024-12-25T09:38:17+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:38:17+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T09:38:45+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.06 KB)","time":"2024-12-25T09:38:45+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:38:45+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T09:38:54+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.08 KB)","time":"2024-12-25T09:38:54+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:38:55+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/first-blog.js'","time":"2024-12-25T09:39:48+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.00 KB)","time":"2024-12-25T09:39:48+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:39:48+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/first-blog.js'","time":"2024-12-25T09:39:59+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.09 KB)","time":"2024-12-25T09:39:59+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:39:59+07:00"}
+{"level":"info","msg":"Upstream - Upload Folder 'pages/dashboard'","time":"2024-12-25T09:40:57+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.00 KB)","time":"2024-12-25T09:40:57+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:40:57+07:00"}
+{"level":"info","msg":"Upstream - Upload Folder 'pages/dashboard/settings'","time":"2024-12-25T09:41:05+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.00 KB)","time":"2024-12-25T09:41:05+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:41:05+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/dashboard/settings/username.js'","time":"2024-12-25T09:41:13+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.00 KB)","time":"2024-12-25T09:41:13+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:41:14+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/dashboard/settings/username.js'","time":"2024-12-25T09:41:28+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.09 KB)","time":"2024-12-25T09:41:28+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:41:28+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/dashboard/settings/username.js'","time":"2024-12-25T09:42:18+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.10 KB)","time":"2024-12-25T09:42:18+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:42:18+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T09:45:04+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.09 KB)","time":"2024-12-25T09:45:04+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:45:04+07:00"}
+{"level":"info","msg":"Upstream - Handling 1 removes","time":"2024-12-25T09:48:38+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/first-blog.js'","time":"2024-12-25T09:48:38+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/first-blog.js'","time":"2024-12-25T09:48:38+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[slug].js'","time":"2024-12-25T09:48:38+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.09 KB)","time":"2024-12-25T09:48:38+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 2 change(s)","time":"2024-12-25T09:48:38+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[slug].js'","time":"2024-12-25T09:50:08+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.16 KB)","time":"2024-12-25T09:50:08+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:50:08+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[slug].js'","time":"2024-12-25T09:50:27+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.20 KB)","time":"2024-12-25T09:50:27+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:50:27+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[slug].js'","time":"2024-12-25T09:51:35+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.21 KB)","time":"2024-12-25T09:51:35+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:51:35+07:00"}
+{"level":"info","msg":"Upstream - Handling 1 removes","time":"2024-12-25T09:52:48+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/[slug].js'","time":"2024-12-25T09:52:48+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/[slug].js'","time":"2024-12-25T09:52:48+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[...slug].js'","time":"2024-12-25T09:52:48+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.21 KB)","time":"2024-12-25T09:52:48+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 2 change(s)","time":"2024-12-25T09:52:49+07:00"}
+{"level":"info","msg":"Upstream - Handling 1 removes","time":"2024-12-25T09:57:40+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/[...slug].js'","time":"2024-12-25T09:57:40+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/[...slug].js'","time":"2024-12-25T09:57:40+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[[...slug]].js'","time":"2024-12-25T09:57:40+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.21 KB)","time":"2024-12-25T09:57:40+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 2 change(s)","time":"2024-12-25T09:57:41+07:00"}
+{"level":"info","msg":"Upstream - Handling 1 removes","time":"2024-12-25T09:58:49+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/index.js'","time":"2024-12-25T09:58:49+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/index.js'","time":"2024-12-25T09:58:49+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T09:58:49+07:00"}
+{"level":"info","msg":"Upstream - Handling 1 removes","time":"2024-12-25T10:00:36+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/[[...slug]].js'","time":"2024-12-25T10:00:36+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/[[...slug]].js'","time":"2024-12-25T10:00:36+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[...slug].js'","time":"2024-12-25T10:00:36+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.21 KB)","time":"2024-12-25T10:00:36+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 2 change(s)","time":"2024-12-25T10:00:36+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T10:00:41+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.00 KB)","time":"2024-12-25T10:00:41+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:00:42+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T10:00:48+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.21 KB)","time":"2024-12-25T10:00:48+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:00:48+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T10:00:54+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.21 KB)","time":"2024-12-25T10:00:54+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:00:54+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T10:01:07+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.16 KB)","time":"2024-12-25T10:01:07+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:01:07+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T10:02:38+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.22 KB)","time":"2024-12-25T10:02:38+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:02:38+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T10:11:23+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.43 KB)","time":"2024-12-25T10:11:23+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:11:24+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T10:17:26+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.43 KB)","time":"2024-12-25T10:17:26+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:17:27+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T10:17:41+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.44 KB)","time":"2024-12-25T10:17:41+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:17:41+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T10:18:00+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.44 KB)","time":"2024-12-25T10:18:00+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:18:01+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/_app.js'","time":"2024-12-25T10:29:58+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.16 KB)","time":"2024-12-25T10:29:58+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:29:58+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/_app.js'","time":"2024-12-25T10:32:11+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.16 KB)","time":"2024-12-25T10:32:11+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:32:11+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/_app.js'","time":"2024-12-25T10:36:20+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.29 KB)","time":"2024-12-25T10:36:20+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:36:20+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/_app.js'","time":"2024-12-25T10:36:35+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.31 KB)","time":"2024-12-25T10:36:35+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:36:35+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/_app.js'","time":"2024-12-25T10:37:57+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.34 KB)","time":"2024-12-25T10:37:57+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:37:57+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/_app.js'","time":"2024-12-25T10:38:30+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.34 KB)","time":"2024-12-25T10:38:30+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:38:31+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[...slug].js'","time":"2024-12-25T10:39:01+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.17 KB)","time":"2024-12-25T10:39:01+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:39:01+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/_app.js'","time":"2024-12-25T10:39:25+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.34 KB)","time":"2024-12-25T10:39:25+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:39:25+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/_app.js'","time":"2024-12-25T10:40:28+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.34 KB)","time":"2024-12-25T10:40:28+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T10:40:28+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T11:12:28+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.45 KB)","time":"2024-12-25T11:12:28+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T11:12:28+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T11:14:21+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.72 KB)","time":"2024-12-25T11:14:21+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T11:14:22+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T11:15:10+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.72 KB)","time":"2024-12-25T11:15:10+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T11:15:10+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T11:16:04+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.75 KB)","time":"2024-12-25T11:16:04+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T11:16:05+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/index.js'","time":"2024-12-25T11:34:41+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.75 KB)","time":"2024-12-25T11:34:41+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T11:34:41+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[...slug].js'","time":"2024-12-25T12:01:19+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.22 KB)","time":"2024-12-25T12:01:19+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T12:01:20+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[...slug].js'","time":"2024-12-25T12:02:36+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.27 KB)","time":"2024-12-25T12:02:36+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T12:02:36+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[...slug].js'","time":"2024-12-25T12:05:50+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.45 KB)","time":"2024-12-25T12:05:50+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T12:05:51+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[...slug].js'","time":"2024-12-25T12:07:18+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.47 KB)","time":"2024-12-25T12:07:18+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T12:07:18+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[...slug].js'","time":"2024-12-25T12:08:47+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.47 KB)","time":"2024-12-25T12:08:47+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T12:08:47+07:00"}
+{"level":"info","msg":"Upstream - Handling 1 removes","time":"2024-12-25T12:09:14+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/[...slug].js'","time":"2024-12-25T12:09:14+07:00"}
+{"level":"info","msg":"Upstream - Remove 'pages/blog/[...slug].js'","time":"2024-12-25T12:09:14+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[...id].js'","time":"2024-12-25T12:09:14+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.47 KB)","time":"2024-12-25T12:09:14+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 2 change(s)","time":"2024-12-25T12:09:15+07:00"}
+{"level":"info","msg":"Upstream - Upload File 'pages/blog/[...id].js'","time":"2024-12-25T12:09:23+07:00"}
+{"level":"info","msg":"Upstream - Upload 1 create change(s) (Uncompressed ~0.47 KB)","time":"2024-12-25T12:09:23+07:00"}
+{"level":"info","msg":"Upstream - Successfully processed 1 change(s)","time":"2024-12-25T12:09:23+07:00"}
